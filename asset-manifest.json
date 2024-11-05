@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khshohelrana.github.io/React-First-Portfolio/static/css/main.49135c8c.css",
+    "main.js": "/khshohelrana.github.io/React-First-Portfolio/static/js/main.f6ba51c5.js",
+    "static/js/787.2aba3b6f.chunk.js": "/khshohelrana.github.io/React-First-Portfolio/static/js/787.2aba3b6f.chunk.js",
+    "index.html": "/khshohelrana.github.io/React-First-Portfolio/index.html",
+    "main.49135c8c.css.map": "/khshohelrana.github.io/React-First-Portfolio/static/css/main.49135c8c.css.map",
+    "main.f6ba51c5.js.map": "/khshohelrana.github.io/React-First-Portfolio/static/js/main.f6ba51c5.js.map",
+    "787.2aba3b6f.chunk.js.map": "/khshohelrana.github.io/React-First-Portfolio/static/js/787.2aba3b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49135c8c.css",
+    "static/js/main.f6ba51c5.js"
+  ]
+}
